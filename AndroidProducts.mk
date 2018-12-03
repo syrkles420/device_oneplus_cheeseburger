@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aoscp_cheeseburger.mk
+    $(LOCAL_DIR)/invictrix.mk
